@@ -5,12 +5,12 @@
 li {
 	display: inline-block;
 	padding: 20px 10px ;
+	color: #1E9FAE;
+
 }
 
-i .fa-bars {
-	display: none;
-}
-.sombra {
+
+.shadow {
 	box-shadow: 10px 10px 15px #1E9FAE;
 }
 
@@ -19,6 +19,7 @@ i .fa-bars {
 	height: 2.5em;
 	border-radius: 0.5em;
 	background-color: #d6bb6b;
+	color:#1E9FAE;
 	text-decoration: none;
 
 }
@@ -34,4 +35,9 @@ footer {
 
 h6 {
 	padding-top: 13px;
+	color:#1E9FAE;
+}
+
+h5 , h1 , h4 {
+	color: #1E9FAE;
 }
