@@ -1,0 +1,37 @@
+.primero {
+	background-color:#d6bb6b; 
+}
+
+li {
+	display: inline-block;
+	padding: 20px 10px ;
+}
+
+i .fa-bars {
+	display: none;
+}
+.sombra {
+	box-shadow: 10px 10px 15px #1E9FAE;
+}
+
+.btn {
+	width: 8em;
+	height: 2.5em;
+	border-radius: 0.5em;
+	background-color: #d6bb6b;
+	text-decoration: none;
+
+}
+
+p{
+	text-align: justify;
+}
+
+footer {
+	background-color: #d6bb6b;
+	text-align: center;
+}
+
+h6 {
+	padding-top: 13px;
+}
